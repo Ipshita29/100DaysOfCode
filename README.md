@@ -12,3 +12,4 @@ Rules 📌
 Code at least 1 question every day.
 Push daily progress to this repository.
 Document learnings and challenges in the progress log.
+change readme 
